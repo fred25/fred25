@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hello, World :)
 
-- 🔭 I’m currently studying Web development and computer science
-- 🌱 I’m currently learning HTML, CSS, Python, Java and Javascript
-- 😄 Pronouns: he/him
+- 🔭 I’m currently studying Android development and AI
+- 🌱 I’m currently learning Python and Java
 - ⚡ Fun fact: I have a band! https://www.youtube.com/channel/UC_2bYCQU3GvtSs6iSIV61QQ
 - 🎨 My portifólio website: https://fred25.github.io/portifolio/
 
