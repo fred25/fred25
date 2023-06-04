@@ -1,9 +1,9 @@
 ### Hello, World :)
 
-- 🔭 I’m currently studying Android development and AI
-- 🌱 I’m currently learning Python and Java
-- ⚡ Fun fact: I have a band! https://www.youtube.com/channel/UC_2bYCQU3GvtSs6iSIV61QQ
-- 🎨 My portifólio website: https://fred25.github.io/portifolio/
+- 🔭 I’m currently studying AI, Data Science and Bioinformatics
+- 🌱 I’m currently learning Python and R
+- ⚡ Fun fact: I had a band! https://www.youtube.com/channel/UC_2bYCQU3GvtSs6iSIV61QQ
+- 🎨 My portifólio website, it is outdated, but is what i have done: https://fred25.github.io/portifolio/
 
 <div align="center">
   <a href="https://github.com/fred25">
