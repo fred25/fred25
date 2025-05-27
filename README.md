@@ -1,8 +1,9 @@
 ### Hello, World :)
 
-- 🔭 I’m currently studying Bioinformatics
-- 🌱 I’m currently learning Python
-- 🎨 My portifólio website, it is outdated, but is what i have done: https://fred25.github.io/portifolio/
+- 🔭 I’m currently studying Biotechnology: Bioinformatics at UFRGS (Federal University of Rio Grande do Sul)
+- 🌱 Currently working with python, R and html.
+- 🧠 Working in computational methods applied to cell biology and computational biology, mainly in microscopy data analysis and _in silico_ simulations.
+- 🔬 Currently working at @[labsinal](https://github.com/labsinal)
 
 <div align="center">
   <a href="https://github.com/fred25">
